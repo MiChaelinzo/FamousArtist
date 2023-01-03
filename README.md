@@ -1,2 +1,2 @@
 # FamousArtist
-a snap lens that transforms your face into a famous work of art? For example, the lens could use facial recognition technology to detect the features of your face and then apply the style of a famous painting to your face. 
+A snap lens that transforms your face into a famous work of art? For example, the lens could use facial recognition technology to detect the features of your face and then apply the style of a famous painting to your face. So, when you take a picture with the lens active, your face would be transformed into a Van Gogh portrait, a Monet landscape, or any other famous work of art. This could be a fun and creative way to express yourself on Snapchat and to appreciate art in a new and interactive way.
