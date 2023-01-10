@@ -1,0 +1,11 @@
+{
+  "name": "famousartist",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js"
+    },
+  "dependencies": {
+    "puppeteer": "^19.4.1",
+    "snapkit": "^1.0.3"
+  }
+}
